@@ -1,0 +1,6 @@
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1003\uri1003\bin\Debug\uri1003.exe.config
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1003\uri1003\bin\Debug\uri1003.exe
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1003\uri1003\bin\Debug\uri1003.pdb
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1003\uri1003\obj\Debug\uri1003.csproj.CoreCompileInputs.cache
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1003\uri1003\obj\Debug\uri1003.exe
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1003\uri1003\obj\Debug\uri1003.pdb
