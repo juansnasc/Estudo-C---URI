@@ -13,9 +13,9 @@ Repositório composto por desafios da plataforma URI/Beecrowd resolvidos com o a
 
 [URI 1006](https://www.beecrowd.com.br/judge/pt/problems/view/1006) <--> [Solução](https://github.com/juansnasc/Estudo-CSharp--URI/blob/main/01-Iniciante/uri1006/uri1006/MainUri1006.cs)
 
-[URI 1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) <--> [Solução](https://github.com/juansnasc/Estudo-CSharp--URI/blob/main/01-Iniciante/uri1007/uri1007/MainUri1007.cs)
+[URI 1007](https://www.beecrowd.com.br/judge/pt/problems/view/1007) <--> [Solução](https://github.com/juansnasc/Estudo-CSharp--URI/blob/main/01-Iniciante/uri1007/uri1007/Program.cs)
 
-[URI 1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) <--> [Solução](https://github.com/juansnasc/Estudo-CSharp--URI/blob/main/01-Iniciante/uri1008/uri1008/MainUri1008.cs)
+[URI 1008](https://www.beecrowd.com.br/judge/pt/problems/view/1008) <--> [Solução](https://github.com/juansnasc/Estudo-CSharp--URI/blob/main/01-Iniciante/uri1008/uri1008/Program.cs)
 
 [URI 1009](https://www.beecrowd.com.br/judge/pt/problems/view/1009) <--> [Solução](https://github.com/juansnasc/Estudo-CSharp--URI/blob/main/01-Iniciante/uri1009/uri1009/MainUri1009.cs)
 
