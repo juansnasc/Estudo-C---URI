@@ -1,0 +1,7 @@
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1005\uri1005\bin\Debug\uri1005.exe.config
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1005\uri1005\bin\Debug\uri1005.exe
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1005\uri1005\bin\Debug\uri1005.pdb
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1005\uri1005\obj\Debug\uri1005.csproj.AssemblyReference.cache
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1005\uri1005\obj\Debug\uri1005.csproj.CoreCompileInputs.cache
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1005\uri1005\obj\Debug\uri1005.exe
+C:\Users\juan silva\Desktop\cSharp_J\testesUnids\uri1005\uri1005\obj\Debug\uri1005.pdb
