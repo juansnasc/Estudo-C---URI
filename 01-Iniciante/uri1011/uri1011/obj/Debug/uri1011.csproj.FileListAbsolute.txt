@@ -1,0 +1,7 @@
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1011\uri1011\bin\Debug\uri1011.exe.config
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1011\uri1011\bin\Debug\uri1011.exe
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1011\uri1011\bin\Debug\uri1011.pdb
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1011\uri1011\obj\Debug\uri1011.csproj.AssemblyReference.cache
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1011\uri1011\obj\Debug\uri1011.csproj.CoreCompileInputs.cache
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1011\uri1011\obj\Debug\uri1011.exe
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1011\uri1011\obj\Debug\uri1011.pdb
