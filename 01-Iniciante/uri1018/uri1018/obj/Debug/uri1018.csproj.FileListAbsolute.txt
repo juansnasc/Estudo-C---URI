@@ -1,0 +1,7 @@
+C:\Users\juan silva\source\repos\uri1018\uri1018\bin\Debug\uri1018.exe.config
+C:\Users\juan silva\source\repos\uri1018\uri1018\bin\Debug\uri1018.exe
+C:\Users\juan silva\source\repos\uri1018\uri1018\bin\Debug\uri1018.pdb
+C:\Users\juan silva\source\repos\uri1018\uri1018\obj\Debug\uri1018.csproj.AssemblyReference.cache
+C:\Users\juan silva\source\repos\uri1018\uri1018\obj\Debug\uri1018.csproj.CoreCompileInputs.cache
+C:\Users\juan silva\source\repos\uri1018\uri1018\obj\Debug\uri1018.exe
+C:\Users\juan silva\source\repos\uri1018\uri1018\obj\Debug\uri1018.pdb
