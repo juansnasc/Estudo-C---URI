@@ -1,0 +1,7 @@
+C:\Users\ruani\source\repos\estudosFORAcSharpJuan\uri1114\uri1114\bin\Debug\uri1114.exe.config
+C:\Users\ruani\source\repos\estudosFORAcSharpJuan\uri1114\uri1114\bin\Debug\uri1114.exe
+C:\Users\ruani\source\repos\estudosFORAcSharpJuan\uri1114\uri1114\bin\Debug\uri1114.pdb
+C:\Users\ruani\source\repos\estudosFORAcSharpJuan\uri1114\uri1114\obj\Debug\uri1114.csproj.AssemblyReference.cache
+C:\Users\ruani\source\repos\estudosFORAcSharpJuan\uri1114\uri1114\obj\Debug\uri1114.csproj.CoreCompileInputs.cache
+C:\Users\ruani\source\repos\estudosFORAcSharpJuan\uri1114\uri1114\obj\Debug\uri1114.exe
+C:\Users\ruani\source\repos\estudosFORAcSharpJuan\uri1114\uri1114\obj\Debug\uri1114.pdb
