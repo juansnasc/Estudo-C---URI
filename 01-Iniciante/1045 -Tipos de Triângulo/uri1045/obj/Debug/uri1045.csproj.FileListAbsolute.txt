@@ -1,0 +1,7 @@
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1045\uri1045\bin\Debug\uri1045.exe.config
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1045\uri1045\bin\Debug\uri1045.exe
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1045\uri1045\bin\Debug\uri1045.pdb
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1045\uri1045\obj\Debug\uri1045.csproj.AssemblyReference.cache
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1045\uri1045\obj\Debug\uri1045.csproj.CoreCompileInputs.cache
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1045\uri1045\obj\Debug\uri1045.exe
+C:\Users\juan silva\Documents\Juan\cSharp_J\testesUnids\uri1045\uri1045\obj\Debug\uri1045.pdb
